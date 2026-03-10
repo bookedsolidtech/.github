@@ -34,7 +34,7 @@ Booked Solid Technology is a consulting practice and product studio. We architec
 
 ## Open Source Projects
 
-### HELiX — Enterprise Web Component Library
+### [HELiX](https://github.com/bookedsolidtech/helix) — Enterprise Web Component Library
 
 Production-grade Web Components built with Lit 3.x and TypeScript. 40+ components, W3C DTCG design tokens, WCAG 2.1 AA accessible. Framework-agnostic — works with React, Astro, Vue, Angular, Drupal, or plain HTML.
 
@@ -52,7 +52,7 @@ Production-grade Web Components built with Lit 3.x and TypeScript. 40+ component
 <hx-button variant="primary">Ship it</hx-button>
 ```
 
-### HELiXiR — AI-Powered Component Intelligence
+### [HELiXiR](https://github.com/bookedsolidtech/helixir) — AI-Powered Component Intelligence
 
 MCP server that gives AI coding agents accurate awareness of any web component library. Reads your Custom Elements Manifest and design tokens so AI stops hallucinating component APIs.
 
