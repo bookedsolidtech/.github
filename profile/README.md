@@ -32,8 +32,9 @@ Booked Solid Technology is a consulting practice and product studio. We architec
 
 Production-grade Web Components built with Lit 3.x and TypeScript. 40+ components, W3C DTCG design tokens, WCAG 2.1 AA accessible. Framework-agnostic — works with React, Astro, Vue, Angular, Drupal, or plain HTML.
 
+[![npm @helixui/library](https://img.shields.io/npm/v/@helixui/library?label=%40helixui%2Flibrary&logo=npm)](https://www.npmjs.com/package/@helixui/library)
+[![npm @helixui/tokens](https://img.shields.io/npm/v/@helixui/tokens?label=%40helixui%2Ftokens&logo=npm)](https://www.npmjs.com/package/@helixui/tokens)
 [![Build](https://img.shields.io/github/actions/workflow/status/bookedsolidtech/helix/ci.yml?branch=main&label=CI&logo=github)](https://github.com/bookedsolidtech/helix/actions)
-[![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)](https://github.com/bookedsolidtech/helix)
 [![Lit](https://img.shields.io/badge/Lit-3.x-324FFF?logo=lit&logoColor=white)](https://lit.dev)
 [![WCAG 2.1 AA](https://img.shields.io/badge/WCAG%202.1-AA-success)](https://github.com/bookedsolidtech/helix)
 
@@ -51,7 +52,7 @@ Production-grade Web Components built with Lit 3.x and TypeScript. 40+ component
 MCP server that gives AI coding agents accurate awareness of any web component library. Reads your Custom Elements Manifest and design tokens so AI stops hallucinating component APIs.
 
 [![npm](https://img.shields.io/npm/v/helixir?logo=npm)](https://www.npmjs.com/package/helixir)
-[![Downloads](https://img.shields.io/npm/dw/helixir)](https://www.npmjs.com/package/helixir)
+[![Downloads](https://img.shields.io/npm/dt/helixir?logo=npm&label=downloads)](https://www.npmjs.com/package/helixir)
 [![Build](https://img.shields.io/github/actions/workflow/status/bookedsolidtech/helixir/build.yml?branch=main&label=build&logo=github)](https://github.com/bookedsolidtech/helixir/actions)
 
 - Works with any component library — Shoelace, Spectrum, FAST, HELiX, yours
