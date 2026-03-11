@@ -1,18 +1,8 @@
 <div align="center">
 
-<pre>
-╔════════════════════╗
-║                    ║
-║    ▄▄▄▄▄           ║
-║    █    █  ▄▄▄     ║
-║    █▄▄▄▄▀ █   ▀    ║
-║    █    █  ▀▀▀▄    ║
-║    █▄▄▄▄▀ ▀▄▄▄▀    ║
-║                    ║
-╚════════════════════╝
-</pre>
+<img src="profile/og-banner.png" alt="Booked Solid Technology" width="600" />
 
-### We build software that works, for people who can't afford it not to.
+### We ship what your last consultant couldn't.
 
 [![Website](https://img.shields.io/badge/bookedsolid.tech-000?style=for-the-badge&logo=astro&logoColor=white)](https://bookedsolid.tech)
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -47,8 +37,8 @@ Production-grade Web Components built with Lit 3.x and TypeScript. 40+ component
 [![Lit](https://img.shields.io/badge/Lit-3.x-324FFF?logo=lit&logoColor=white)](https://lit.dev)
 [![WCAG 2.1 AA](https://img.shields.io/badge/WCAG%202.1-AA-success)](https://github.com/bookedsolidtech/helix)
 
-- `@helix/library` — Buttons, cards, grids, navigation, forms, structured lists, and more
-- `@helix/tokens` — Design tokens with light/dark/high-contrast themes
+- `@helixui/library` — Buttons, cards, grids, navigation, forms, structured lists, and more
+- `@helixui/tokens` — Design tokens with light/dark/high-contrast themes
 - Storybook 10.x + Astro/Starlight documentation
 - Built for healthcare and enterprise — where accessibility isn't optional
 
