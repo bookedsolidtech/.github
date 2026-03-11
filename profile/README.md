@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/og-banner.png" alt="Booked Solid Technology" width="600" />
+<img src="https://raw.githubusercontent.com/bookedsolidtech/.github/main/profile/og-banner.png" alt="Booked Solid Technology" width="600" />
 
 ### We ship what your last consultant couldn't.
 
