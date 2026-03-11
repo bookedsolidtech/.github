@@ -30,7 +30,7 @@ Booked Solid Technology is a consulting practice and product studio. We architec
 
 ### [HELiX](https://github.com/bookedsolidtech/helix) — Enterprise Web Component Library
 
-Production-grade Web Components built with Lit 3.x and TypeScript. 40+ components, W3C DTCG design tokens, WCAG 2.1 AA accessible. Framework-agnostic — works with React, Astro, Vue, Angular, Drupal, or plain HTML.
+Production-grade Web Components built with Lit 3.x and TypeScript. 72 components, W3C DTCG design tokens, WCAG 2.1 AA accessible. Framework-agnostic — works with React, Astro, Vue, Angular, Drupal, or plain HTML.
 
 [![npm @helixui/library](https://img.shields.io/npm/v/@helixui/library?label=%40helixui%2Flibrary&logo=npm)](https://www.npmjs.com/package/@helixui/library)
 [![npm @helixui/tokens](https://img.shields.io/npm/v/@helixui/tokens?label=%40helixui%2Ftokens&logo=npm)](https://www.npmjs.com/package/@helixui/tokens)
